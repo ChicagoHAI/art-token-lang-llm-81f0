@@ -1,0 +1,15 @@
+{
+  "success": false,
+  "stages": {
+    "resource_finder": {
+      "success": false,
+      "completion_marker": null,
+      "outputs": {
+        "papers_dir": "/data/hypogenicai/workspaces/art-token-lang-llm-81f0/papers"
+      },
+      "log_file": "/data/hypogenicai/workspaces/art-token-lang-llm-81f0/logs/resource_finder_claude.log",
+      "elapsed_time": 166.30489039421082
+    }
+  },
+  "work_dir": "/data/hypogenicai/workspaces/art-token-lang-llm-81f0"
+}
