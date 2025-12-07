@@ -3,8 +3,8 @@
   "stages": {
     "resource_finder": {
       "status": "failed",
-      "started_at": "2025-12-07T00:12:40.783314",
-      "completed_at": "2025-12-07T00:15:27.089670",
+      "started_at": "2025-12-07T00:20:01.083776",
+      "completed_at": "2025-12-07T00:32:33.174566",
       "success": false,
       "outputs": {
         "papers_dir": "/data/hypogenicai/workspaces/art-token-lang-llm-81f0/papers"
