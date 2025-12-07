@@ -1,0 +1,25 @@
+idea:
+  title: An Artificial Token Language for More Efficient LLMs
+  domain: nlp
+  hypothesis: "Training large language models on a compact, artificial token language\u2014\
+    designed to be highly expressive and efficient\u2014will reduce model size and\
+    \ computational requirements while maintaining or improving reasoning quality\
+    \ compared to training on token-heavy natural languages like English.\n"
+  background:
+    description: "Today I\u2019m thinking about how to make LLMs less inefficient\
+      \ and more sustainable.\nSome papers show that English is token-heavy, while\
+      \ other languages can express the same reasoning with far fewer tokens and similar\
+      \ in quality. That made me wonder: instead of fighting over which human language\
+      \ is most efficient, why not build an artificial one? We can make a small, universal\
+      \ set of highly expressive tokens. We map any human language into this compact\
+      \ code, train the model in that code space, then decode back to normal text\
+      \ (like compiling in programming).\nIf this works, we might get much smaller,\
+      \ faster models that reason better with fewer tokens."
+  metadata:
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/QOJAeqma7tE0qDYFZ1vX
+    idea_id: an_artificial_token_language_f_20251207_001114_71ea5609
+    created_at: '2025-12-07T00:11:14.083751'
+    status: submitted
+    github_repo_name: art-token-lang-llm-81f0
+    github_repo_url: https://github.com/ChicagoHAI/art-token-lang-llm-81f0
